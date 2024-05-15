@@ -10,7 +10,7 @@ using namespace std;
 
 const int size = 30;
 
-// Simple Bank structure to hold bank details
+// Simple Bank class to hold bank details
 class Bank
 {
 public:
